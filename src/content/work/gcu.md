@@ -1,10 +1,12 @@
 ---
 company: "Grand Canyon University"
-role: "AI Research Intern"
+role: "Independent Researcher"
 dateStart: "08/01/2024"
 dateEnd: "Current"
-shortDescription: "I am doing EEG signal processing for a project on creating an wheelchair controlled by human thought."
+shortDescription: "Researching how AI generates phishing emails and determining which LLM (OpenAI, Claude, Gemini) generates the most convincing emails."
 ---
 
-- <p>Collaborated with a team of 5 to design wheelchair controlled by brain EEG signals</p>
-- <p>Preprocessed 100s of EEG data files on OpenBCI to optimize them for model training, improving data quality and model performance</p>
+- <p>Investigating how different AI models generate phishing emails</p>
+  <!-- TODO: add results once done with project -->
+- <p>Wrote 5000 word research paper as final product; online final product linked here</p>
+- <p>Gave 20 minute presentation to multiple crowds about research results</p>

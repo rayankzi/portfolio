@@ -1,7 +1,9 @@
 ---
-title: "Introducing Taskmaster"
-description: "The Why, What, and How of Taskmaster, my new app: a full showcase!"
-date: "06/10/2023"
+title: "Taskmaster"
+description: "An all-in-one task management tool. For everyone."
+date: "June 01 2023"
+# demoURL: "https://github.com/rayankzi/immerse"
+# repoURL: "https://github.com/rayankzi/immerse"
 ---
 
 ## Introduction
